@@ -1,0 +1,15 @@
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\bin\Debug\net6.0\rpn.exe
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\bin\Debug\net6.0\rpn.deps.json
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\bin\Debug\net6.0\rpn.runtimeconfig.json
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\bin\Debug\net6.0\rpn.dll
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\bin\Debug\net6.0\rpn.pdb
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.csproj.AssemblyReference.cache
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.AssemblyInfoInputs.cache
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.AssemblyInfo.cs
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.csproj.CoreCompileInputs.cache
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.dll
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\refint\rpn.dll
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.pdb
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\rpn.genruntimeconfig.cache
+C:\Users\OnesUser\Desktop\rpn\rpn\rpn\obj\Debug\net6.0\ref\rpn.dll
